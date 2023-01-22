@@ -1,6 +1,6 @@
 <h2 align="center"> Hi! I'm Xavier Romeu ✨. </h2>
 
-<!-- Banner -->
+<!-- Banner img -->
 
 <h2 align="center"> I'm a Developer Student 💻 </h2>
 

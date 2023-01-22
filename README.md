@@ -26,11 +26,11 @@
  </p>
 
 ## 📋 Current Goals
-- [ ] 1. 
-- [ ] 2.
-- [ ] 3. 
-- [ ] 4. 
-- [ ] 5. 
+- [ ] Learn Testing.
+- [ ] Learn Solidity, Blockchain and Smart Contracts. 
+- [ ] Learn a JavaScript 3D library.
+- [ ] Learn AWS and obtain the certificate. 
+- [ ] Masterize React and React Native. 
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierRomeuDev&show_icons=true&theme=tokyonight)

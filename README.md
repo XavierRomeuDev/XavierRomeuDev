@@ -26,9 +26,8 @@
  </p>
 
 ## 📋 Current Goals
-- [ ] Learn Testing.
+- [ ] Masterize Testing.
 - [ ] Learn Solidity, Blockchain and Smart Contracts. 
-- [ ] Learn a JavaScript 3D library.
 - [ ] Learn AWS and obtain the certificate. 
 - [ ] Masterize React and React Native. 
 
@@ -41,6 +40,6 @@
  ## 📩 Connect
 <p align="left">
 <a href="mailto:xaviermromeu@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
-<a href="https://www.linkedin.com/in/xavier-romeu-mart%C3%ADnez-432a07199/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+<a href="https://www.linkedin.com/in/xavier-romeu" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
 </p>
 

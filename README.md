@@ -24,7 +24,6 @@
  </p>
 
 ## 📋 Current Goals
-- [ ] Learn Solidity, Blockchain and Smart Contracts. 
 - [ ] Learn AWS and obtain the certificate. 
 
 ## 📈 GitHub Stats 

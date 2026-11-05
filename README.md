@@ -83,8 +83,11 @@ I'm a **Tech Lead and backend-focused engineer** who builds software that real b
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XavierRomeuDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierRomeuDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierRomeuDev&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierRomeuDev&layout=compact&theme=tokyonight)](https://github.com/XavierRomeuDev/github-readme-stats)
+
 </div>
 
 ---

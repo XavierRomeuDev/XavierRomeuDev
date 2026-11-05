@@ -1,40 +1,100 @@
-<h2 align="center"> Hi! I'm Xavier Romeu ✨. </h2>
+<div align="center">
 
-<!-- Banner img -->
+# Hi, I'm Xavier Romeu 👋
 
-## 💼 Technical Skills
-<p align="left"> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- </p>
+<a href="https://github.com/XavierRomeuDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Tech+Lead+%26+Backend+Engineer;Node.js+%C2%B7+Laravel+%C2%B7+TypeScript;Building+on+AWS+%26+Google+Cloud;Payments%2C+ERPs+%26+real-world+business+systems" alt="Typing SVG" />
+</a>
 
-## 📋 Current Goals
-- [ ] Learn AWS and obtain the certificate. 
-
-## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierRomeuDev&show_icons=true&theme=tokyonight)
-
-## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierRomeuDev&layout=compact&theme=tokyonight)](https://github.com/XavierRomeuDev/github-readme-stats)
-
- ## 📩 Connect
-<p align="left">
-<a href="mailto:xaviermromeu@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
-<a href="https://www.linkedin.com/in/xavier-romeu" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+<p>
+  <a href="https://www.linkedin.com/in/xavier-romeu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:xaviermromeu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Catalonia,_Spain-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open_to-Remote_roles-2ea043?style=for-the-badge" alt="Open to remote"/>
 </p>
 
+</div>
+
+---
+
+## 🧑‍💻 About me
+
+I'm a **Tech Lead and backend-focused engineer** who builds software that real businesses run on every day — payments, ERPs, payroll and the mobile apps around them.
+
+- 💳 **Tech Lead at Cucunver** — leading a small team building **CucunverPay**, an in-house payment platform (Laravel/PHP, Redsys) for a multi-tenant nonprofit management SaaS, deployed on **Google Cloud Run**.
+- 🐟 **Business systems for a seafood distribution & aquaculture group** — ERP integrations on Firebird, payroll and time-tracking, delivery-note apps for drivers, and a Telegram bot that takes customer orders straight into the ERP.
+- ☁️ **Cloud** — hands-on with AWS (EC2, Lambda, API Gateway, RDS, S3, CloudFront, SQS/SNS, IAM, CloudWatch…) and Google Cloud, with infrastructure as code via CloudFormation.
+- 🎯 **Now:** moving deeper into **cloud & platform engineering** — AWS certifications, Terraform and Kubernetes.
+
+---
+
+## 🛠️ Tech stack
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,laravel,python&theme=dark" alt="Backend"/>
+
+**Frontend & Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark" alt="Frontend"/> &nbsp; + React Native (Expo)
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,git,linux&theme=dark" alt="Cloud"/>
+
+**Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" alt="Data"/> &nbsp; + Firebird (ERP)
+
+---
+
+## 🚀 Selected work
+
+> Most of my work lives in private company repositories — here's what it covers.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **CucunverPay** | Payment platform for a multi-tenant SaaS: card payments via Redsys, retry logic, automated member notifications, payout reports stored on GCS | Laravel · PHP · Cloud Run · GCS |
+| **Business management system** | Modules for payroll, time-tracking and operations of a seafood distribution company, integrated with its Firebird ERP | Node.js · Express · Firebird · Firestore |
+| **Order bot** | Telegram bot that lets clients and sales reps place orders with fuzzy product search, written directly into the ERP | Node.js · Firebird · MiniSearch |
+| **Field mobile apps** | Delivery notes for drivers, worker time clock, warehouse unloading tracking | React Native · Expo · Firebase |
+| **E-commerce storefront** | Online fresh-fish shop with weight-based pricing using Stripe manual capture | Next.js · Stripe |
+
+---
+
+## 📜 Certifications roadmap
+
+| Certification | Status |
+|---|---|
+| ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazonwebservices&logoColor=white) | 🔄 In progress |
+| ![AWS](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?logo=amazonwebservices&logoColor=white) | 🔄 In progress |
+| ![AWS](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?logo=amazonwebservices&logoColor=white) | 🔄 In progress |
+| ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonwebservices&logoColor=white) | 🔄 In progress |
+| ![AWS](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?logo=amazonwebservices&logoColor=white) | 📅 Planned |
+| ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?logo=amazonwebservices&logoColor=white) | 📅 Planned |
+| ![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?logo=terraform&logoColor=white) | 🔄 In progress |
+| ![Kubernetes](https://img.shields.io/badge/CNCF-CKA-326CE5?logo=kubernetes&logoColor=white) | 🔄 In progress |
+
+<!-- When you pass one, change the status to ✅ and link the Credly badge, e.g.:
+[![AWS](https://img.shields.io/badge/...)](https://www.credly.com/badges/XXXX) | ✅ 2026 -->
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XavierRomeuDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierRomeuDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</div>
+
+---
+
+## 💬 Ask me about
+
+Payment integrations · ERP & legacy database integrations · Node.js / Laravel backends · Turning messy business processes into software · AWS architecture
+
+<div align="center">
+
+🌍 Català · Castellano · English
+
+</div>

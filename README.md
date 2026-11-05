@@ -2,15 +2,13 @@
 
 # Hi, I'm Xavier Romeu 👋
 
-<a href="https://github.com/XavierRomeuDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Tech+Lead+%26+Backend+Engineer;Node.js+%C2%B7+Laravel+%C2%B7+TypeScript;Building+on+AWS+%26+Google+Cloud;Payments%2C+ERPs+%26+real-world+business+systems" alt="Typing SVG" />
-</a>
+<img src="./assets/header.svg" alt="Tech Lead & Backend Engineer · Node.js · Laravel · TypeScript · AWS & Google Cloud"/>
 
 <p>
-  <a href="https://www.linkedin.com/in/xavier-romeu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:xaviermromeu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Catalonia,_Spain-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open_to-Remote_roles-2ea043?style=for-the-badge" alt="Open to remote"/>
+  <a href="https://www.linkedin.com/in/xavier-romeu"><img src="./assets/badge-linkedin.svg" alt="LinkedIn"/></a>
+  <a href="mailto:xaviermromeu@gmail.com"><img src="./assets/badge-email.svg" alt="Email"/></a>
+  <img src="./assets/badge-location.svg" alt="Catalonia, Spain"/>
+  <img src="./assets/badge-remote.svg" alt="Open to remote roles"/>
 </p>
 
 </div>
@@ -32,19 +30,19 @@ I'm a **Tech Lead and backend-focused engineer** who builds software that real b
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,laravel,python&theme=dark" alt="Backend"/>
+<img src="./assets/stack-backend.svg" alt="Node.js, Express, TypeScript, PHP, Laravel, Python"/>
 
 **Frontend & Mobile**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark" alt="Frontend"/> &nbsp; + React Native (Expo)
+<img src="./assets/stack-frontend.svg" alt="React, React Native, Expo, Next.js, JavaScript, HTML, CSS"/>
 
 **Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,git,linux&theme=dark" alt="Cloud"/>
+<img src="./assets/stack-cloud.svg" alt="AWS, Google Cloud, Docker, Jenkins, Git, Linux"/>
 
 **Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" alt="Data"/> &nbsp; + Firebird (ERP)
+<img src="./assets/stack-data.svg" alt="PostgreSQL, MySQL, MongoDB, Firebase, Firebird"/>
 
 ---
 
@@ -66,29 +64,28 @@ I'm a **Tech Lead and backend-focused engineer** who builds software that real b
 
 | Certification | Status |
 |---|---|
-| ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazonwebservices&logoColor=white) | 🔄 In progress |
-| ![AWS](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?logo=amazonwebservices&logoColor=white) | 🔄 In progress |
-| ![AWS](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?logo=amazonwebservices&logoColor=white) | 🔄 In progress |
-| ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonwebservices&logoColor=white) | 🔄 In progress |
-| ![AWS](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?logo=amazonwebservices&logoColor=white) | 📅 Planned |
-| ![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?logo=amazonwebservices&logoColor=white) | 📅 Planned |
-| ![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?logo=terraform&logoColor=white) | 🔄 In progress |
-| ![Kubernetes](https://img.shields.io/badge/CNCF-CKA-326CE5?logo=kubernetes&logoColor=white) | 🔄 In progress |
+| <img src="./assets/icon-aws.svg" width="16" align="center"/> &nbsp;**AWS Cloud Practitioner** | 🔄 In progress |
+| <img src="./assets/icon-aws.svg" width="16" align="center"/> &nbsp;**AWS AI Practitioner** | 🔄 In progress |
+| <img src="./assets/icon-aws.svg" width="16" align="center"/> &nbsp;**AWS Developer Associate** | 🔄 In progress |
+| <img src="./assets/icon-aws.svg" width="16" align="center"/> &nbsp;**AWS Solutions Architect Associate** | 🔄 In progress |
+| <img src="./assets/icon-aws.svg" width="16" align="center"/> &nbsp;**AWS DevOps Engineer Professional** | 📅 Planned |
+| <img src="./assets/icon-aws.svg" width="16" align="center"/> &nbsp;**AWS Solutions Architect Professional** | 📅 Planned |
+| <img src="./assets/icon-terraform.svg" width="16" align="center"/> &nbsp;**HashiCorp Terraform Associate** | 🔄 In progress |
+| <img src="./assets/icon-kubernetes.svg" width="16" align="center"/> &nbsp;**CNCF Certified Kubernetes Administrator (CKA)** | 🔄 In progress |
 
-<!-- When you pass one, change the status to ✅ and link the Credly badge, e.g.:
-[![AWS](https://img.shields.io/badge/...)](https://www.credly.com/badges/XXXX) | ✅ 2026 -->
+<!-- When you pass one, change the status to ✅ and link your Credly badge, e.g.:
+| <img src="./assets/icon-aws.svg" width="16" align="center"/> &nbsp;**[AWS Cloud Practitioner](https://www.credly.com/badges/XXXX)** | ✅ 2026 | -->
 
 ---
 
 ## 📊 GitHub stats
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierRomeuDev&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierRomeuDev&layout=compact&theme=tokyonight)](https://github.com/XavierRomeuDev/github-readme-stats)
-
+  <img src="./assets/github-stats.svg" alt="GitHub stats"/>
+  <img src="./assets/top-langs.svg" alt="Most used languages"/>
 </div>
+
+<sub>Generated daily by a GitHub Action in this repo. Most of my work is in private repositories, so it shows up as private contributions.</sub>
 
 ---
 

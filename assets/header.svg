@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="50" viewBox="0 0 640 50" role="img" aria-label="Tech Lead &amp; Backend Engineer · Node.js · Laravel · TypeScript · Building on AWS &amp; Google Cloud · Payments, ERPs &amp; business systems">
+  <clipPath id="c0"><rect x="150" y="0" width="0" height="50">
+      <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.0001;0.1;0.2214;0.25;1" values="0;0;340;340;0;0"/>
+    </rect></clipPath>
+  <text x="150" y="32" clip-path="url(#c0)" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="20" font-weight="500" fill="#7AA2F7">Tech Lead &amp; Backend Engineer</text>
+  <clipPath id="c1"><rect x="138" y="0" width="0" height="50">
+      <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.25;0.35;0.4714;0.5;1" values="0;0;364;364;0;0"/>
+    </rect></clipPath>
+  <text x="138" y="32" clip-path="url(#c1)" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="20" font-weight="500" fill="#7AA2F7">Node.js · Laravel · TypeScript</text>
+  <clipPath id="c2"><rect x="138" y="0" width="0" height="50">
+      <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.5;0.6;0.7214;0.75;1" values="0;0;364;364;0;0"/>
+    </rect></clipPath>
+  <text x="138" y="32" clip-path="url(#c2)" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="20" font-weight="500" fill="#7AA2F7">Building on AWS &amp; Google Cloud</text>
+  <clipPath id="c3"><rect x="120" y="0" width="0" height="50">
+      <animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.75;0.85;0.9714;1;1" values="0;0;400;400;0;0"/>
+    </rect></clipPath>
+  <text x="120" y="32" clip-path="url(#c3)" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="20" font-weight="500" fill="#7AA2F7">Payments, ERPs &amp; business systems</text>
+</svg>

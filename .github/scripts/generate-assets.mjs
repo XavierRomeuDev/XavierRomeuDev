@@ -142,6 +142,7 @@ const files = {
     ["siTypescript", "TypeScript"],
     ["siPhp", "PHP"],
     ["siLaravel", "Laravel"],
+    ["siKotlin", "Kotlin"],
     ["siPython", "Python"],
   ]),
   "stack-frontend.svg": stackRow([
